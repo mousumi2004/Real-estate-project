@@ -1,0 +1,6 @@
+.env
+credentials.json
+token.json
+lastDate.json
+node_modules/
+.DS_Store
